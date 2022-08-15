@@ -34,18 +34,21 @@ export default function AboutSection() {
             <Box sx={styles.card}>
               <Box sx={styles.wrapper}>
                 <Text sx={styles.wrapper.subTitle}>
-                  At ecoBantu Solutions (Pty) Ltd, our focus is to assist you to live a greener life by
-                  offering a sustainable energy source solution at your home or your workplace which
-                  will save you money on your utility bill. South Africans are blessed with 8 to 10
-                  sunshine hours daily in most regions which makes Solar Energy a perfect
-                  sustainable energy solution.
+                  ecoBantu Solutions (Pty) Ltd is a South African <strong>BBBEE Level 1</strong>{' '}
+                  Solar Retailer, Distributor &amp; installer that believes that reliable
+                  electricity is not only a basic necessity but a <strong>HUMAN RIGHT</strong> hence
+                  we are in the Solar Business.
                   <br />
                   <br />
-                  We pride ourselves in providing individuals and companies solutions that are
-                  uniquely suited to their needs by offering quality products that supports a
-                  technically well-planned system. The solutions we offer includes assisting you
-                  with just overcoming the hassle of load-shedding to going completely off-grid and
-                  being completely self-sufficient. Call or email ecoBantu Solutions today and take one step closer to a greener future…
+                  Our ambition is not only limited to the future of electricity alone but we plan on
+                  bringing Sustainable Housing Solutions and some IoT (Internet of Things)
+                  awesomeness into the mix as well, so watch this space in a few years time.
+                  <br />
+                  <br />
+                  Looking for Efficient, Timeous and Pragmatic Professionals? That is ecoBantu you
+                  are talking about. Contact us NOW to find out how we can help you lower you power
+                  bill by a substantial amount, make you immune to <em>"LOAD SHEDDING"</em> or
+                  take you completely off-grid.
                 </Text>
               </Box>
             </Box>

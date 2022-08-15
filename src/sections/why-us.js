@@ -1,7 +1,6 @@
 /** @jsx jsx */
 import { jsx } from 'theme-ui';
 import { Container, Grid } from 'theme-ui';
-import Work from '../sections/work';
 import SectionHeader from 'components/section-header';
 import FeatureCard from 'components/feature-card.js';
 import theme from 'theme';
@@ -16,21 +15,21 @@ const data = [
     imgSrc: Partnership,
     altText: 'Our Mission',
     title: 'Our Mission',
-    text: `To become the preferred supplier of solar and security products and equipment in Africa.`,
+    text: `To be the Premier Entity when it comes to Sustainable Renewable Energy Solutions starting in South Africa, the SADC Region & beyond whilst boasting the highest employee satisfaction and retention in the industry.`,
   },
   {
     id: 2,
     imgSrc: Performance,
     altText: 'Vision',
     title: 'Our Vision',
-    text: `To make sustainable energy available to the people of South Africa and Africa - quality at the best price with the best smile.`,
+    text: `To democratise Solar Power so that it becomes commonplace thus lowering its barrier to entry so that more civilians can afford it while pioneering better ways of harnessing electricity without the burning of Fossil Fuels.`,
   },
   {
     id: 3,
     imgSrc: Subscription,
     altText: 'Our Values',
     title: 'Our Values',
-    text: `Our values include but are not limited to: Delivering Excellence, Innovative thinking, Passionate Commitment, Having fun whilst working, Ethical business practices & principles.`,
+    text: `Our values include but are not limited to: A human-centric working environment, Pragmatic Ingenuity, A child-like thirst for learning, Growth through obstacles, Happy & Satisfied Clients.`,
   },
   {
     id: 4,
@@ -38,7 +37,7 @@ const data = [
     altText: 'Post Sales Support',
     title: 'Post Sales Support',
     text:
-      'To our existing clients and prospect clients, we are here for you every step of the way. Working with Foremost Solar is not a transaction but a relationship. Give us a shout whenever in need.',
+      'To our existing clients and prospect clients, we are here for you every step of the way. Working with ecoBantu Solutions is not a transaction but a relationship. Give us a shout whenever in need.',
   },
 ];
 
@@ -50,7 +49,7 @@ export default function WhyUs() {
         <br />
         <br />
 
-        <SectionHeader slogan="BEST IN THE BUSINESS" title="Why Foremost Solar" />
+        <SectionHeader slogan="BEST IN THE BUSINESS" title="Why ecoBantu Solutions" />
 
         <Grid sx={styles.grid}>
           {data.map((item) => (
@@ -63,9 +62,6 @@ export default function WhyUs() {
             />
           ))}
         </Grid>
-        <br />
-        <hr sx={theme.styles.hr} />
-        <Work />
       </Container>
     </section>
   );

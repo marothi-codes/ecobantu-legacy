@@ -2,8 +2,12 @@
 import { jsx } from 'theme-ui';
 import { Container, Grid } from 'theme-ui';
 import SectionHeader from '../components/section-header';
+
 import FeatureCardColumn from 'components/feature-card-column.js';
+import Work from '../sections/Work';
+
 import theme from 'theme';
+
 import Performance from 'assets/key-feature/performance.svg';
 import Partnership from 'assets/key-feature/partnership.svg';
 import Subscription from 'assets/key-feature/subscription.svg';
@@ -32,7 +36,7 @@ const data = [
     altText: 'Backup Systems',
     title: 'Backup Systems',
     text:
-      'We also offer Backup Systems to keep the lights on during power outages. We understand that working from home and remote jobs are now a norm. A backup system will help you get work done whenever ESKOM fails you.',
+      'We also offer Backup Systems to keep the lights on during power outages. We understand that working from home and remote jobs are now a norm. A backup system is an asset whenever the LOAD SHEDDING boogeyman visits.',
   },
   {
     id: 4,
@@ -66,6 +70,9 @@ export default function Services() {
             />
           ))}
         </Grid>
+        <br />
+        <hr sx={theme.styles.hr} />
+        <Work />
       </Container>
     </section>
   );

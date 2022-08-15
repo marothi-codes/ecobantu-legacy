@@ -19,7 +19,7 @@ export default function IndexPage() {
     <ThemeProvider theme={theme}>
       <ParallaxProvider>
         <Layout>
-          <SEO title="ecoBantu Solutions (Pty) Ltd" />
+          <SEO title="ecoBantu Solutions (Pty) Ltd: Grid-Tied, Off-Grid or Backup Solar Power Systems Retailer, Distributor & Installer in South Africa" />
           <Banner />
           <AboutSection />
           <Services />
