@@ -100,7 +100,7 @@ const carouselParams = {
   slidesToSlide: 1,
 };
 
-export default function TestimonialCard() {
+export default function Testimonials() {
   return (
     <section id="testimonial" sx={{ variant: 'section.testimonial' }}>
       <Container css={{ textAlign: 'center' }}>

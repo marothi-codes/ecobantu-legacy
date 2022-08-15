@@ -19,7 +19,7 @@ const social = [
   },
   {
     path:
-      'https://www.google.com/search?q=ecobantu+solutions+%28pty%29+ltd&authuser=2&source=hp&ei=YWP6Yt2eBKG68gKJoLLwAw&iflsig=AJiK0e8AAAAAYvpxcRT188_wxwtrVnC1b2_RhoknXO02&oq=ecobantu+solutions+%28pty&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCCEQoAEQCjoLCC4QgAQQsQMQgwE6CwgAEIAEELEDEIMBOg4ILhCABBCxAxDHARDRAzoOCC4QsQMQgwEQxwEQrwE6CAgAELEDEIMBOggIABCABBCxAzoRCC4QgAQQsQMQgwEQxwEQrwE6EQguEIAEELEDEIMBEMcBENEDOgUIABCABDoLCC4QgAQQxwEQ0QM6CwguEIAEEMcBEK8BOgoILhDHARDRAxANOgQIABANOgQIIRAVOgUIIRCgAToGCAAQHhANOggIABAeEA0QCjoFCAAQhgNQAFjJPmDZT2gAcAB4AIABhQOIAZ00kgEGMi0xNi43mAEAoAEB&sclient=gws-wiz',
+      'https://www.google.com/search?q=ecobantu+solutions+%28pty%29+ltd',
     icon: <FaGoogle />,
     title: 'Google',
   },
