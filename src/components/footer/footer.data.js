@@ -8,7 +8,7 @@ export default {
       title: 'Facebook',
     },
     {
-      path: 'https://www.instagram.com/eco_bantu/',
+      path: 'https://www.instagram.com/eco_bantu',
       icon: <FaInstagram />,
       title: 'Instagram',
     },
