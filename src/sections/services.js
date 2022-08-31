@@ -16,11 +16,11 @@ import Support from 'assets/key-feature/support.svg';
 const data = [
   {
     id: 1,
-    imgSrc: Performance,
-    altText: 'Off-Grid Systems',
-    title: 'Off-Grid Systems',
+    imgSrc: Subscription,
+    altText: 'Backup Systems',
+    title: 'Backup Systems',
     text:
-      'For those that have no interest in using the Power Grid, we offer fully off-grid solar power systems that can power the whole vicinity be it an office or home. The system is not tied to the grid allowing the vicinity to be self powered.',
+      'The majority of our clients are wanting to overcome the issue of LOAD SHEDDING. We offer extremely well priced backup systems to keep the lights on. Backup systems are not just there to keep your business going but, we focus our teams to make sure that students benefit by being able to study no matter what happens.',
   },
   {
     id: 2,
@@ -28,15 +28,15 @@ const data = [
     altText: 'Grid-Tied Systems',
     title: 'Grid-Tied Systems',
     text:
-      'We also offer Grid-tied systems that consist of a standard backup system but includes solar panels (also referred to as the solar array). These systems are the de facto investment for long-term saving on electricity bills.',
+      'We also offer Grid-tied systems that consist of a standard backup system but includes solar panels (also referred to as the solar array). With a grid-tied system you still have the benefit of Eskom (when it\'s available) AND you get free power to run your household during the day. A big plus is the fact that you get to save money on your electrical account.',
   },
   {
     id: 3,
-    imgSrc: Subscription,
-    altText: 'Backup Systems',
-    title: 'Backup Systems',
+    imgSrc: Performance,
+    altText: 'Off-Grid Systems',
+    title: 'Off-Grid Systems',
     text:
-      'We also offer Backup Systems to keep the lights on during power outages. We understand that working from home and remote jobs are now a norm. A backup system is an asset whenever the LOAD SHEDDING boogeyman visits.',
+      'For those that have no interest in using the Eskom grid, we offer fully off-grid solar power systems that can power your entire home or business. Because you are not connected to Eskom your electrical account is nil.',
   },
   {
     id: 4,
