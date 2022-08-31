@@ -34,21 +34,12 @@ export default function AboutSection() {
             <Box sx={styles.card}>
               <Box sx={styles.wrapper}>
                 <Text sx={styles.wrapper.subTitle}>
-                  ecoBantu Solutions (Pty) Ltd is a South African <strong>BBBEE Level 1</strong>{' '}
-                  Solar Retailer, Distributor &amp; installer that believes that reliable
-                  electricity is not only a basic necessity but a <strong>HUMAN RIGHT</strong> hence
-                  we are in the Solar Business.
-                  <br />
-                  <br />
-                  Our ambition is not only limited to the future of electricity alone but we plan on
-                  bringing Sustainable Housing Solutions and some IoT (Internet of Things)
-                  awesomeness into the mix as well, so watch this space in a few years time.
-                  <br />
-                  <br />
-                  Looking for Efficient, Timeous and Pragmatic Professionals? That is ecoBantu you
-                  are talking about. Contact us NOW to find out how we can help you lower you power
-                  bill by a substantial amount, make you immune to <em>"LOAD SHEDDING"</em> or
-                  take you completely off-grid.
+                  ecoBantu Solutions (Pty) Ltd was founded by a young entrepreneur with a passion
+                  for renewable energy by making solar power accessible to ALL South Africans. Are
+                  you looking for an efficient, reliable and professional company to resolve your
+                  power needs? Look no further! ecoBantu is the answer. Call ecoBantu now for peace
+                  of mind with your solar system. Our staff are at your service to offer you a
+                  professional service at reasonable rates with the biggest smile.
                 </Text>
               </Box>
             </Box>
